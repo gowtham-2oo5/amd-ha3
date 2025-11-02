@@ -4,7 +4,7 @@ A comprehensive React Native app built with Expo that helps students track event
 
 ## 📱 Demo Video
 
-https://github.com/gowtham-2oo5/amd-ha3/blob/main/demo.MP4
+https://github.com/gowtham-2oo5/amd-ha3/blob/main/demo.gif
 
 *Watch the full app demonstration showing all features and navigation flows*
 
