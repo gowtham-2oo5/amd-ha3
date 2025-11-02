@@ -54,10 +54,13 @@ export default function ProfileScreen() {
   };
 
   const isFormValid = () => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const phoneRegex = /^\d{10,13}$/;
+    
     return (
       name.trim().length > 0 &&
-      validateEmail(email) &&
-      validatePhone(phone) &&
+      emailRegex.test(email) &&
+      phoneRegex.test(phone) &&
       !emailError &&
       !phoneError
     );
