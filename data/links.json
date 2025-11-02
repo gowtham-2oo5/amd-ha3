@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "label": "Student Portal",
+    "url": "https://student.university.edu"
+  },
+  {
+    "id": "2",
+    "label": "Library Resources",
+    "url": "https://library.university.edu"
+  },
+  {
+    "id": "3",
+    "label": "Course Catalog",
+    "url": "https://catalog.university.edu"
+  },
+  {
+    "id": "4",
+    "label": "Campus Map",
+    "url": "https://map.university.edu"
+  },
+  {
+    "id": "5",
+    "label": "Dining Services",
+    "url": "https://dining.university.edu"
+  },
+  {
+    "id": "6",
+    "label": "IT Help Desk",
+    "url": "https://helpdesk.university.edu"
+  },
+  {
+    "id": "7",
+    "label": "Career Services",
+    "url": "https://careers.university.edu"
+  },
+  {
+    "id": "8",
+    "label": "Student Health Center",
+    "url": "https://health.university.edu"
+  }
+]

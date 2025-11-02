@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Tech Conference 2024",
+    "dateISO": "2024-12-15T09:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=1",
+    "description": "Join us for the biggest tech conference of the year featuring industry leaders, innovative workshops, and networking opportunities. Learn about the latest trends in AI, blockchain, and mobile development."
+  },
+  {
+    "id": "2",
+    "title": "Campus Job Fair",
+    "dateISO": "2024-12-20T10:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=2",
+    "description": "Meet with top employers and explore career opportunities. Bring your resume and dress professionally. Over 50 companies will be present including tech giants, startups, and consulting firms."
+  },
+  {
+    "id": "3",
+    "title": "Winter Sports Tournament",
+    "dateISO": "2024-12-22T14:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=3",
+    "description": "Annual winter sports competition featuring basketball, volleyball, and indoor soccer. Cheer for your favorite teams and enjoy food trucks and live music throughout the event."
+  },
+  {
+    "id": "4",
+    "title": "Study Group: Advanced Mathematics",
+    "dateISO": "2024-12-18T16:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=4",
+    "description": "Weekly study group for advanced mathematics students. We'll cover calculus, linear algebra, and statistics. All skill levels welcome. Bring your textbooks and calculators."
+  },
+  {
+    "id": "5",
+    "title": "Art Exhibition Opening",
+    "dateISO": "2024-12-25T18:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=5",
+    "description": "Showcase of student artwork including paintings, sculptures, and digital art. Meet the artists, enjoy refreshments, and support your fellow students' creative endeavors."
+  },
+  {
+    "id": "6",
+    "title": "Coding Bootcamp Workshop",
+    "dateISO": "2024-12-28T13:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=6",
+    "description": "Intensive 4-hour coding workshop covering React Native, Node.js, and database fundamentals. Perfect for beginners and intermediate developers looking to enhance their skills."
+  },
+  {
+    "id": "7",
+    "title": "Campus Clean-up Day",
+    "dateISO": "2025-01-05T08:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=7",
+    "description": "Join the sustainability initiative to keep our campus beautiful. Volunteer for 2-4 hours and help with landscaping, recycling, and general maintenance. Free lunch provided."
+  },
+  {
+    "id": "8",
+    "title": "Guest Lecture: Entrepreneurship",
+    "dateISO": "2025-01-10T15:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=8",
+    "description": "Inspiring talk by successful startup founder about building a business from scratch. Learn about funding, team building, and overcoming challenges in the entrepreneurial journey."
+  },
+  {
+    "id": "9",
+    "title": "Music Concert: Student Band Night",
+    "dateISO": "2025-01-15T19:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=9",
+    "description": "Evening of live music featuring talented student bands from various genres. Rock, jazz, indie, and electronic music. Support local talent and enjoy a great night out."
+  },
+  {
+    "id": "10",
+    "title": "Career Development Workshop",
+    "dateISO": "2025-01-20T11:00:00Z",
+    "imageUrl": "https://picsum.photos/400/200?random=10",
+    "description": "Professional development session covering resume writing, interview skills, and networking strategies. Industry professionals will provide personalized feedback and career advice."
+  }
+]
