@@ -4,9 +4,9 @@ A comprehensive React Native app built with Expo that helps students track event
 
 ## 📱 Demo Video
 
-https://github.com/gowtham-2oo5/amd-ha3/blob/main/demo.gif
+[![Campus Companion Demo](https://img.youtube.com/vi/EAJJrh6ygFQ/0.jpg)](https://youtube.com/shorts/EAJJrh6ygFQ?feature=share)
 
-*Watch the full app demonstration showing all features and navigation flows*
+*Click the thumbnail above to watch the full app demonstration showing all features and navigation flows*
 
 ## ✨ Features
 
