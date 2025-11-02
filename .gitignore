@@ -46,3 +46,9 @@ app-example
 .vscode
 .gitignore
 .kiro
+
+# Demo files
+demo.gif
+demo.mp4
+*.gif
+*.mp4
